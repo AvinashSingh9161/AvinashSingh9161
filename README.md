@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Avinash Singh 👋
 
-<!--
-**AvinashSingh9161/AvinashSingh9161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Engineer @ jhatpatly**
 
-Here are some ideas to get you started:
+I build scalable web products and AI-powered tools with a strong focus on clean architecture, performance, and great UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I work on
+- Full-stack web applications (TypeScript, React, Node.js)
+- AI/ML-powered product features (Python)
+- Production-ready APIs and backend systems
+
+## 🧰 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js
+- **Backend:** Node.js, Express
+- **Tools:** Git, GitHub, REST APIs
+
+## 📌 Featured Projects
+- [Deep-ai](https://github.com/AvinashSingh9161/Deep-ai) — AI-focused experiments and product ideas
+- [avinash-3d-marketing-hub](https://github.com/AvinashSingh9161/avinash-3d-marketing-hub) — 3D-focused marketing experience
+- [jarvis](https://github.com/AvinashSingh9161/jarvis) — Assistant-style automation project
+- [Voice-Activated-Helper](https://github.com/AvinashSingh9161/Voice-Activated-Helper) — Voice-enabled personal assistant
+
+## 📫 Connect
+- GitHub: [@AvinashSingh9161](https://github.com/AvinashSingh9161)
+
+---
+
+_Always learning, shipping, and improving._
