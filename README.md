@@ -10,13 +10,19 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <img align="center" alt="Coding" width="420" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
 - 🌱 I’m currently improving my full-stack development with AI-assisted coding workflows.
 - 👨‍💻 All of my projects are available at [github.com/AvinashSingh9161](https://github.com/AvinashSingh9161)
 - 💬 Ask me about **Python, HTML, Java, and vibe coding with AI**
 - 🎯 I focus on building practical MVPs and prototypes quickly
+
+### 🚀 Project Highlights
+- **Deep-ai** → AI experiments and practical Python prototypes
+- **Voice-Activated-Helper** → Voice-first assistant automation project
+- **jarvis** → Personal assistant workflows in Python
+- **avinash-3d-marketing-hub** → 3D web experience project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,14 +38,20 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
+### 📌 Featured Repositories
+<p align="center">
+  <a href="https://github.com/AvinashSingh9161/Deep-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashSingh9161&repo=Deep-ai&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AvinashSingh9161/Voice-Activated-Helper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashSingh9161&repo=Voice-Activated-Helper&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 ### 📊 GitHub Stats
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AvinashSingh9161&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AvinashSingh9161" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvinashSingh9161&show_icons=true&locale=en&theme=tokyonight" alt="AvinashSingh9161" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashSingh9161&theme=tokyonight" alt="AvinashSingh9161" /></p>
 
 ### 📊 GitHub Contribution Graph
-
 [![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvinashSingh9161&theme=tokyo-night)](https://github.com/AvinashSingh9161)
